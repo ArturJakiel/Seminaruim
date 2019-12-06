@@ -53,7 +53,7 @@ Czas obrony wynosi 30 min.
 7. [Wykorzystanie narzędzi CASE w projektowaniu systemów oprogramowania.](./PKiSI/7-Wykorzystanie_narzędzi_CASE_w_projektowaniu_systemów_oprogramowania.md)
 8. Przeznaczenie oraz metody transformacji układu współrzędnych w grafice wektorowej.
 9. Topologie sieci komputerowych.
-10.[Metody przetwarzania i rozpoznawania obrazów.](./PKiSI/10-metody-przetwarzania-i-rozpoznawania-obrazow.md)
+10. [Metody przetwarzania i rozpoznawania obrazów.](./PKiSI/10-metody-przetwarzania-i-rozpoznawania-obrazow.md)
 
 ## Cele i terminy kolejnych zjazdów
 - **Zjazd 6: 30.11 13:15** konsultacje 209-A

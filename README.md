@@ -39,7 +39,7 @@ Czas obrony wynosi 30 min.
 6. Metody sztucznej inteligencji.
 7. Metody szyfrowania i kompresji danych.
 8. Organizacja relacyjnych baz danych.
-9.  [Metody rozwiązywania układów równań liniowych.](./metody-rozwiazywania-ukladow-rownan-liniowych.md)
+9. [Metody rozwiązywania układów równań liniowych.](./metody-rozwiazywania-ukladow-rownan-liniowych.md)
 10. Metody rozwiązywania funkcji logicznych w algebrze Boole'a.
 11. CISC a RISC procesory
 
@@ -50,10 +50,10 @@ Czas obrony wynosi 30 min.
 4. Projektowanie aplikacji typu klient-serwer.
 5. Systemy ekspertowe.
 6. Projektowanie aplikacji internetowych w architekturze wielowarstwowej.
-7. Wykorzystanie narzędzi CASE w projektowaniu systemów oprogramowania.
+7. [Wykorzystanie narzędzi CASE w projektowaniu systemów oprogramowania.](./PKiSI/7-Wykorzystanie_narzędzi_CASE_w_projektowaniu_systemów_oprogramowania.md)
 8. Przeznaczenie oraz metody transformacji układu współrzędnych w grafice wektorowej.
 9. Topologie sieci komputerowych.
-10. Metody przetwarzania i rozpoznawania obrazów.
+10.[Metody przetwarzania i rozpoznawania obrazów.](./PKiSI/10-metody-przetwarzania-i-rozpoznawania-obrazow.md)
 
 ## Cele i terminy kolejnych zjazdów
 - **Zjazd 6: 30.11 13:15** konsultacje 209-A

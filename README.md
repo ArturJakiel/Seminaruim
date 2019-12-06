@@ -37,7 +37,7 @@ Czas obrony wynosi 30 min.
 4. Podprogramy rekurencyjne i rekurencyjne struktury danych.
 5. Metodyka projektowania obiektowego.
 6. Metody sztucznej inteligencji.
-7. Metody szyfrowania i kompresji danych.
+7. [Metody szyfrowania i kompresji danych.](./Pytania%20kierunkowe/7-Metody_szyfrowania_i_kompresji_danych.md)
 8. Organizacja relacyjnych baz danych.
 9. [Metody rozwiązywania układów równań liniowych.](./Pytania%20kierunkowe/9-metody-rozwiazywania-ukladow-rownan-liniowych.md)
 10. Metody rozwiązywania funkcji logicznych w algebrze Boole'a.

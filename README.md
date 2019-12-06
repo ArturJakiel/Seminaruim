@@ -39,7 +39,7 @@ Czas obrony wynosi 30 min.
 6. Metody sztucznej inteligencji.
 7. Metody szyfrowania i kompresji danych.
 8. Organizacja relacyjnych baz danych.
-9. [Metody rozwiązywania układów równań liniowych.](./metody-rozwiazywania-ukladow-rownan-liniowych.md)
+9. [Metody rozwiązywania układów równań liniowych.](./Pytania kierunkowe/9-metody-rozwiazywania-ukladow-rownan-liniowych.md)
 10. Metody rozwiązywania funkcji logicznych w algebrze Boole'a.
 11. CISC a RISC procesory
 

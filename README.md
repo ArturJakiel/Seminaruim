@@ -33,7 +33,7 @@ Czas obrony wynosi 30 min.
 ### Pytania kierunkowe
 1. Podstawowe struktury danych i ich przeznaczenie.
 2. Metody sortowania i przeszukiwania informacji.
-3. Cykl projektowania i przeszukiwania informacji.
+3. [Cykl projektowania i przeszukiwania informacji.](./Pytania%20kierunkowe/3-Cykl-projektowania-i-zycia-oprogramowania.md)
 4. Podprogramy rekurencyjne i rekurencyjne struktury danych.
 5. Metodyka projektowania obiektowego.
 6. Metody sztucznej inteligencji.
@@ -49,7 +49,7 @@ Czas obrony wynosi 30 min.
 3. Technologie zdalnego dostępu do baz danych.
 4. Projektowanie aplikacji typu klient-serwer.
 5. Systemy ekspertowe.
-6. Projektowanie aplikacji internetowych w architekturze wielowarstwowej.
+6. [Projektowanie aplikacji internetowych w architekturze wielowarstwowej.](./PKiSI/6-Projektowanie-aplikacji-internetowych-w-architekturze-wielowarstwowej.md)
 7. [Wykorzystanie narzędzi CASE w projektowaniu systemów oprogramowania.](./PKiSI/7-Wykorzystanie_narzędzi_CASE_w_projektowaniu_systemów_oprogramowania.md)
 8. Przeznaczenie oraz metody transformacji układu współrzędnych w grafice wektorowej.
 9. Topologie sieci komputerowych.

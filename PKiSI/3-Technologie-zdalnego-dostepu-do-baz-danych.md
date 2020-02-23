@@ -1,23 +1,30 @@
-3. Technologie zdalnego dostępu do baz danych 
-ODBC, OLE DB, DAO, ADO, ADO.NET, JDBC, JDO
-ODBC
+# Technologie zdalnego dostępu do baz danych 
+- ODBC, 
+- OLE DB, 
+- DAO,
+- ADO,
+- ADO.NET,
+- JDBC,
+- JDO
+
+### ODBC
 Składa się na niego zbiór funkcji API, dzięki którym możliwy stał się dostęp do relacyjnych baz danych. Dzięki niemu tworzone aplikacje 
 mogły uzyskać dostęp do danych składowanych w plikach jak również w serwerach SQL
 
-OLE DB
+### OLE DB
 Interfejs ten stanowi rozwinięcie opracowane przez firmę Microsoft standardu ODBC. Głównym założeniem OLE DB jest uogólnienie modelu 
 klient-serwer ODBC do modelu konsument danych - dostawca danych. 
 
-DAO
+### DAO
 Model DAO ma strukturę hierarchiczną. Podstawę hierarchii modelu danych stanowi silnik bazy danych. Przestrzenie robocze stanowią otoczenie 
 dla otwieranych baz danych w ich obrębie (każda sesja reprezentowana jest przez jeden obiekt). Pierwsza technologia która posłużyła się 
 obiektami dostępu do danych
 
-ADO
+### ADO
 Wykorzystuje OLE.DB do łączenia się z bazami danych, ale implementacja jest zdecydowanie uproszczona. Jest warstwą odnoszącą się do interfejsu 
 na poziomie aplikacji, a nie systemu operacyjnego.
 
-ADO.NET
+### ADO.NET
 Firma Microsoft wprowadziła obsługę XML-a. Dzięki temu w założeniach ADO.NET miało działać w zasadzie na każdej platformie, która obsługuje 
 standard XML. Jest to technologia ukierunkowana głównie na tworzenie aplikacji wielowarstwowych, rozproszonych na kilku serwerach. 
 W odniesieniu do klasycznego ADO ADO.NET korzysta z dwóch warstw: połączeniowej i bezpołączeniowej. Warstwa połączeniowa jest mocno powiązana 
@@ -26,19 +33,19 @@ gdy nie jest wymagany ciągły dostęp do źródła danych. Oferuje możliwość
 w strumieniach xml, jak i plikach. Dane pobrane ze źródła danych przechowywane i przetwarzane są na lokalnym komputerze użytkownika, zazwyczaj 
 w postaci lokalnej bazy danych.
 
-JDBC
+### JDBC
 Standard JDBC pozwala tworzyć interfejsy programowe API (Application Programming Interface) wyższego poziomu: 
 SQLJ − osadzony SQL dla Javy, oraz JavaBlend − bezpośrednie odwzorowanie tabel relacyjnej bazy danych na klasy Javy. Sama aplikacja dostęp 
 do danych uzyskać może na kilka sposobów; są one następujące: moduł JDBC z bezpośrednim połączeniem z bazą danych, moduł sterujący JDBC dla 
 oprogramowania pośredniczącego bazy danych, częściowy moduł sterujący JDBC, połączenie JDBC-ODBC
 
-JDO
+### JDO
 JDO stanowi alternatywę dla JDBC. Udostępnia obiektowy mechanizm trwałości i standardowe interfejsy umożliwiające korzystanie z baz danych. 
 Rekordy z relacyjnej bazy danych traktowane są jako obiekty. Współpracuje z relacyjnymi i obiektowymi bazami danych, jak również innymi 
 rodzajami systemów. Na obiektowy model JDO składa się zestaw klas Javy i plik metadanych XML (zawierający wytyczne modelowania)
 
 
-II wersja 
+## II wersja 
 
 ADO.NET można podzielić na: mechanizm dostępu do danych oraz system przechowywania danych. Uproszoną architekturę ADO.NET, której głównymi 
 komponentami są: zbiór danych (DataSet) oraz dostarczyciel danych (Data Provider). Źródło danych może znajdować się w fizycznej bazie danych 

@@ -46,7 +46,7 @@ Czas obrony wynosi 30 min.
 ### Pytania dla PKiSI
 1. Zagadnienia bezpieczeństwa w sieciach.
 2. Integralność baz danych.
-3. Technologie zdalnego dostępu do baz danych.
+3. [Technologie zdalnego dostępu do baz danych.](./PKiSI/3-Technologie-zdalnego-dostepu-do-baz-danych.md)
 4. Projektowanie aplikacji typu klient-serwer.
 5. Systemy ekspertowe.
 6. [Projektowanie aplikacji internetowych w architekturze wielowarstwowej.](./PKiSI/6-Projektowanie-aplikacji-internetowych-w-architekturze-wielowarstwowej.md)

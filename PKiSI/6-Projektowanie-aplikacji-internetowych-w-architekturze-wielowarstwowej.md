@@ -13,3 +13,5 @@ Jest on prosty i szybki w implementacji jednak ze względu na przechowywanie du�
   - **Warstwa serwerów danych** - Przechowywanie danych
 
 > https://www.computerworld.pl/news/Kuchnia-architektury-klient-serwer-architektura-wielowarstwowa,293248,2.html
+
+zmiany

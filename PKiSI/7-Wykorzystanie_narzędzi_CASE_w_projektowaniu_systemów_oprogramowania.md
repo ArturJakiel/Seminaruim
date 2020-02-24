@@ -24,3 +24,7 @@ Najważniejsze korzyści wynikające ze stosowania pakietów CASE:
 
 #### Przykład programu CASE
 ***NetBeans IDE*** jest środowiskiem programistycznym (Integrated Development Environment - IDE) - narzędziem służącym do tworzenia, kompilowania, uruchamiania i testowania programów. Całe IDE jest napisane w Javie, jednak umożliwia ono również tworzenie programów w innych.
+
+#### Popularne narzędzia
+- Eclipse, NetBeans - środowisko programistyczne dla Javy
+- StarUML – budowa diagramów itp.

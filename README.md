@@ -44,19 +44,17 @@ Czas obrony wynosi 30 min.
 11. [CISC a RISC procesory](./Pytania%20kierunkowe/11-CISC-a-RISC-procesory.md)
 
 ### Pytania dla PKiSI
-1. Zagadnienia bezpieczeństwa w sieciach.
-2. Integralność baz danych.
+1. [Zagadnienia bezpieczeństwa w sieciach.](./PKiSI/1-Zagadnienia-bezpieczenstwa-w-sieciach.md)
+2. [Integralność baz danych.](./PKiSI/2-Integralnosc-baz-danych.md)
 3. [Technologie zdalnego dostępu do baz danych.](./PKiSI/3-Technologie-zdalnego-dostepu-do-baz-danych.md)
-4. Projektowanie aplikacji typu klient-serwer.
-5. Systemy ekspertowe.
+4. [Projektowanie aplikacji typu klient-serwer.](./PKiSI/4-Projektowanie-aplikacji-typu-klient-serwer.md)
+5. [Systemy ekspertowe.](./PKiSI/5-Systemy-ekspertowe.md)
 6. [Projektowanie aplikacji internetowych w architekturze wielowarstwowej.](./PKiSI/6-Projektowanie-aplikacji-internetowych-w-architekturze-wielowarstwowej.md)
 7. [Wykorzystanie narzędzi CASE w projektowaniu systemów oprogramowania.](./PKiSI/7-Wykorzystanie_narzędzi_CASE_w_projektowaniu_systemów_oprogramowania.md)
-8. Przeznaczenie oraz metody transformacji układu współrzędnych w grafice wektorowej.
-9. Topologie sieci komputerowych.
+8. [Przeznaczenie oraz metody transformacji układu współrzędnych w grafice wektorowej.](./PKiSI/8-Przeznaczenie-oraz-metody-transformacji-ukladu-wspołrzednych-w-grafice-wektorowej.md)
+9. [Topologie sieci komputerowych.](./PKiSI/9-Topologie-sieci-komputerowych.md)
 10. [Metody przetwarzania i rozpoznawania obrazów.](./PKiSI/10-metody-przetwarzania-i-rozpoznawania-obrazow.md)
 
-## Cele i terminy kolejnych zjazdów
-- **Zjazd 6: 30.11 13:15** konsultacje 209-A
-- **Zjazd 7: 8.12** odpowiedź pytania kierunkowe i z specjalności 
-- **Zjazd 8: 21.12** konsultacje prezentacji dyplomowej
-- **Zjazd 9 11.01:** Prezentacja pracy dyplomowej
+### Pytania dla ITO
+12. [Zespół testowy: role w zespole, zakres odpowiedzialności, zarządzanie zespołem.](./ITO/12-Zespoł-testowy-role-w-zespole-zakres-odpowiedzialnosci-zarzadzanie-zespolem.md)
+13. [Testowanie oprogramowania a zarządzanie ryzykiem w projektach informatycznych.](./ITO/13-Testowanie-oprogramowania-a-zarzadzanie-ryzykiem-w-projektach-informatycznych.md)

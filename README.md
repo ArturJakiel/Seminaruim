@@ -31,17 +31,17 @@ Czas obrony wynosi 30 min.
 > odpowiedz na pytania nie powinna zająć dłużej niż 5 min
 
 ### Pytania kierunkowe
-1. Podstawowe struktury danych i ich przeznaczenie.
-2. Metody sortowania i przeszukiwania informacji.
+1. [Podstawowe struktury danych i ich przeznaczenie.](./Pytania%20kierunkowe/1-Podstawowe-struktury-danych-i-ich-przeznaczenie.md)
+2. [Metody sortowania i przeszukiwania informacji.](./Pytania%20kierunkowe/2-Metody-sortowania-i-przeszukiwania-informacji.md)
 3. [Cykl projektowania i przeszukiwania informacji.](./Pytania%20kierunkowe/3-Cykl-projektowania-i-zycia-oprogramowania.md)
-4. Podprogramy rekurencyjne i rekurencyjne struktury danych.
-5. Metodyka projektowania obiektowego.
-6. Metody sztucznej inteligencji.
+4. [Podprogramy rekurencyjne i rekurencyjne struktury danych.](./Pytania%20kierunkowe/4-Podprogramy-rekurencyjne-i-rekurencyjne-struktury-danych.md)
+5. [Metodyka projektowania obiektowego.](./Pytania%20kierunkowe/5-Metodyka-projektowania-obiektowego.md)
+6. [Metody sztucznej inteligencji.](./Pytania%20kierunkowe/6-Metody-sztucznej-inteligencji.md)
 7. [Metody szyfrowania i kompresji danych.](./Pytania%20kierunkowe/7-Metody_szyfrowania_i_kompresji_danych.md)
-8. Organizacja relacyjnych baz danych.
+8. [Organizacja relacyjnych baz danych.](./Pytania%20kierunkowe/8-Organizacja-relacyjnych-baz-danych.md)
 9. [Metody rozwiązywania układów równań liniowych.](./Pytania%20kierunkowe/9-metody-rozwiazywania-ukladow-rownan-liniowych.md)
-10. Metody rozwiązywania funkcji logicznych w algebrze Boole'a.
-11. CISC a RISC procesory
+10. [Metody rozwiązywania funkcji logicznych w algebrze Boole'a.](./Pytania%20kierunkowe/10-Metody-rozwiazywania-funkcji-logicznych-w-algebrze-Boolea.md)
+11. [CISC a RISC procesory](./Pytania%20kierunkowe/11-CISC-a-RISC-procesory.md)
 
 ### Pytania dla PKiSI
 1. Zagadnienia bezpieczeństwa w sieciach.

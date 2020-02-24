@@ -1,4 +1,6 @@
 # Technologie zdalnego dostępu do baz danych 
+Dzięki technologiom zdalnego dostępu do bazy danych realizowany jest dostęp aplikacji do danych przechowywanych i zarządzanych przez różne serwery SQL.
+
 - ODBC, 
 - OLE DB, 
 - DAO,
@@ -57,3 +59,4 @@ czy z wielu tabel. W ADO.NET zbiór rekordów został zastąpiony przez zbiór d
 (DataTable). Jeśli aplikacja żąda od ADO.NET zwrócenia danych z dwóch tabel, to dane zwracane są w formie dwóch tabel, które znajdują się 
 w zbiorze danych. Relacje pomiędzy ta-belami znajdującymi się w zbiorze danych reprezentowane są przez instancję klasy DataRelation.
 
+Aktualnie najczęściej używaną i zarazem wiodącą technologią Microsoft jest ADO.NET. Interfejsy ODBC i OLE DB nie są już tak popularne jak kiedyś (m.in. ze względu na efektywność dostępu czy też brak dostępu do specjalizowanych funkcji najnowszych wersji SQL Servera) ale nadal znajdują swoje zastosowanie, choć w znacznie mniejszym stopniu niż przed laty.

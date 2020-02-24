@@ -55,3 +55,19 @@ Znane również jako asymetryczne algorytmy klucza, ten typ szyfrowania używa r
 - **Diffie-Hellman key agreement (DH)** – nie służy do szyfrowania, lecz pozwala 2 stronom na bezpieczne uzgodnienie tajnego materiału kryptograficznego (np. klucza).
 - **Rivest Shamir Adleman (RSA)** – algorytm służący do szyfrowania i podpisywania danych. Najczęściej wykorzystywany z kluczami 1024 bitowymi i dłuższymi. Długość klucza silnie wpływa na czas obliczeń. Gdy używany jest RSA, podpisywanie jest wolniejsze niż sprawdzanie podpisu. 
 - **Digital Signature Algorithm (DSA)** – algorytm służący tylko do podpisywania. Obsługuje maksymalną długość klucza 1024 bity. Gdy używany jest DSA, podpisywanie jest szybsze niż sprawdzanie podpisu. 
+
+## TL;DR 
+### Kompresja danych 
+to proces zmniejszenia objętości danych, czyli sposób zapisu danych, aby bez utraty ich treści (oraz jakości) ograniczyć liczbę wykorzystywanych bitów.
+
+### Kompresję dzielimy na 
+- **Bezstratną** – w której z postaci skompresowanej można odzyskać identyczną postać pierwotną.
+- **Stratną** – w której odzyskanie identycznej postaci jest niemożliwe, jednak główne właściwości, które nas interesują, zostają zachowane.
+
+Kompresje stratną nie można zastosować do każdego rodzaju danych. W tekstach, programach komputerowych itp. usunięcie/zamiana jednego bitu przyniosła by opłakane skutki.  Kompresje stratną stosujemy np. do plików graficznych i audio, gdzie ludzkie zmysły nie zauważą drobnych zmian barw czy różnic. Jeżeli w danym momencie brzmi wiele dźwięków słyszymy tylko niektóre z nich. Na tym bazują algorytmy kompresji stratnej i usuwają te elementy których nie jesteśmy w stanie dostrzec lub usłyszeć.
+
+- **Szyfrowanie** – to technika umożliwiająca bezpieczne przesyłanie wiadomości, czyli pozwalająca na ukrycie jej tekstu. Niezaszyfrowaną wiadomość nazywamy tekstem jawnym, a zaszyfrowaną szyfrogramem.
+- **Szyfrowanie podstawieniowe** - w którym każdy znak tekstu jawnego zastępowany jest przez inny znak, np. szyfr Cezara. Ze względu na łatwość łamania tego rodzaju szyfrów, nie są one już stosowane.
+- **Szyfrowanie przestawieniowe** – w którym w tekście zaszyfrowanym pojawiają się wszystkie znaki tekstu jawnego, ale w innej kolejności.
+- **Szyfrowanie z kluczem symetrycznym** – do sposobu szyfrowania dołączany jest klucz, bez którego znajomości nie odszyfrujemy danych. Nadawca jak i odbiorca muszę posiadać ten sam klucz. Wszystkie nowoczesne sposoby szyfrowania wykorzystują klucze.
+- **Szyfrowanie z kluczem asymetrycznym** – jest to najlepsze szyfrowanie z wyżej wymienionych. W tych algorytmach klucz szyfrujący jest inny niż klucz deszyfrujący. Klucz jawny można udostępnić każdemu w celu zaszyfrowania wiadomości przeznaczonych dla odbiorcy. Jednak pasującym do klucza jawnego kluczem deszyfrującym (kluczem prywatnym) dysponuje tylko odbiorca wiadomości. Najbardziej znanym algorytmem z kluczem jawnym jest RSA.

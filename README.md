@@ -56,5 +56,7 @@ Czas obrony wynosi 30 min.
 10. [Metody przetwarzania i rozpoznawania obrazów.](./PKiSI/10-metody-przetwarzania-i-rozpoznawania-obrazow.md)
 
 ### Pytania dla ITO
+11. [Scenariusze lub procedury testowe](./ITO/11-Scenariusze-lub-procedury-testowe.md)
 12. [Zespół testowy: role w zespole, zakres odpowiedzialności, zarządzanie zespołem.](./ITO/12-Zespoł-testowy-role-w-zespole-zakres-odpowiedzialnosci-zarzadzanie-zespolem.md)
 13. [Testowanie oprogramowania a zarządzanie ryzykiem w projektach informatycznych.](./ITO/13-Testowanie-oprogramowania-a-zarzadzanie-ryzykiem-w-projektach-informatycznych.md)
+14. [Rola testowania oprogramowania w metodykach zwinnych wytwarzania oprogramowania](./ITO/14-Rola-testowania-oprogramowania-w-metodykach-zwinnych-wytwarzania-oprogramowania.md)
